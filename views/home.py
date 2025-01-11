@@ -139,26 +139,26 @@ st.markdown("""
 
     /* Teks */
     .stat-text {
-        font-size: 30px;
-        margin-bottom: 5px;
-        margin-top: 15px;
+        font-size: 20px !important;
+        margin-bottom: 5px !important;
+        margin-top: 10px !important;
         font-weight: bold;
     }
     
     .number-text {
-        font-size: 20px !important;
+        font-size: 30px !important;
         font-weight: bold;
-        margin-bottom: 0px;
+        margin-bottom: 0px !important;
     }
             
     .number-subtext {
-        font-size: 15px;
-        margin-top: 0px;
+        font-size: 15px !important;
+        margin-top: 0px !important;
     }
 
     .stat-subtext {
-        font-size: 15px;
-        margin-top: 5px;
+        font-size: 15px !important;
+        margin-top: 5px !important;
     }
     </style>
 """, unsafe_allow_html=True)
