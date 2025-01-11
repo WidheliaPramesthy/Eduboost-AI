@@ -141,7 +141,7 @@ st.markdown("""
     .stat-text {
         font-size: 30px;
         margin-bottom: 5px;
-        margin-top: 15px;
+        margin-top: 50px;
         font-weight: bold;
     }
     
