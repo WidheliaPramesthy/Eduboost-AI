@@ -141,12 +141,12 @@ st.markdown("""
     .stat-text {
         font-size: 30px;
         margin-bottom: 5px;
-        margin-top: 50px;
+        margin-top: 15px;
         font-weight: bold;
     }
     
     .number-text {
-        font-size: 40px;
+        font-size: 20px !important;
         font-weight: bold;
         margin-bottom: 0px;
     }
