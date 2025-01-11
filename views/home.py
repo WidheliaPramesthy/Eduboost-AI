@@ -200,7 +200,7 @@ with st.container():
         st.markdown(
             """
             <div class="stat-box">
-                <p class="stat-text">Angka Putus Sekolah</p>
+                <p class="stat-text">Angka Putus <br> Sekolah</p>
                 <p class="number-text">0,18</p>
                 <p class="number-subtext">Persen</p>
                 <p class="stat-subtext">Sumber:<br>Kemendikbud (2024)</p>
@@ -213,7 +213,7 @@ with st.container():
         st.markdown(
             """
             <div class="stat-box">
-                <p class="stat-text">Kerusakan Kelas SMP</p>
+                <p class="stat-text">Kerusakan <br> Kelas SMP</p>
                 <p class="number-text">27.121</p>
                 <p class="number-subtext">Rusak Berat</p>
                 <p class="stat-subtext">Sumber: <br>Kemendikbud (2024)</p>
@@ -226,7 +226,7 @@ with st.container():
         st.markdown(
             """
             <div class="stat-box">
-                <p class="stat-text">Kerusakan Kelas SMA</p>
+                <p class="stat-text">Kerusakan <br> Kelas SMA</p>
                 <p class="number-text">10.692</p>
                 <p class="number-subtext">Rusak Berat</p>
                 <p class="stat-subtext">Sumber: <br>Kemendikbud (2024)</p>
