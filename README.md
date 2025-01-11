@@ -1,1 +1,1 @@
-# NutriCare 1000 Web Application
+# Eduboost AI
