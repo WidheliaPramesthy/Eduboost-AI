@@ -139,14 +139,14 @@ st.markdown("""
 
     /* Teks */
     .stat-text {
-        font-size: 20px;
+        font-size: 30px;
         margin-bottom: 5px;
-        margin-top: 10px;
+        margin-top: 15px;
         font-weight: bold;
     }
     
     .number-text {
-        font-size: 30px;
+        font-size: 40px;
         font-weight: bold;
         margin-bottom: 0px;
     }
