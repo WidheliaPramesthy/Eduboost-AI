@@ -187,7 +187,7 @@ with st.container():
         st.markdown(
             """
             <div class="stat-box">
-                <p class="stat-text">Jumlah Siswa</p>
+                <p class="stat-text">Jumlah <br> Siswa</p>
                 <p class="number-text">39</p>
                 <p class="number-subtext">Juta</p>
                 <p class="stat-subtext">Sumber:<br>Kemendikbud (2024)</p>
