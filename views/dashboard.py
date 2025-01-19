@@ -40,6 +40,10 @@ with c3:
     st.plotly_chart(fig3, use_container_width=True)
 
 # Menambahkan gambar peta
+st.subheader("Peta Ketersediaan Sekolah")
+st.image("images/peta_sekolah.png", caption="Peta Ketersediaan Sekolah", use_container_width=True)
+
+# Menambahkan gambar peta
 st.subheader("Peta Aksesibilitas Pendidikan")
 st.image("images/isochrone.png", caption="Peta Aksesibilitas Pendidikan", use_container_width=True)
 
