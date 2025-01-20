@@ -16,7 +16,7 @@ icon2 = "images/users-class.png"
 
 # --- PAGE CONFIG ---
 logo = "images/logo.png"
-st.set_page_config(page_title="Eduboost AI", page_icon=logo, layout="wide")
+st.set_page_config(page_title="EduBoost AI", page_icon=logo, layout="wide")
 
 
 
