@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(page_title="Chatbot Assistant", page_icon=":material/smart_toy:", layout="wide")
-st.title("Eduboost AI Chatbot")
+st.title("EduBoost AI Chatbot")
 
 with st.chat_message(name="assistant"):
     st.write("Selamat datang di Eduboost AI! Jelajahi solusi digital kami untuk peningkatan dan pemerataan pendidikan di Indonesia.\n\n"
