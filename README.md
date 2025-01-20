@@ -1,1 +1,1 @@
-# Eduboost AI
+# EduBoost AI
