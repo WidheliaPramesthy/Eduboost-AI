@@ -38,7 +38,7 @@ if wide_mode:
             st.markdown(
                 """
                 <div style="text-align: center;">
-                    <h1 style="margin-bottom: 10px;">Eduboost AI</h1>
+                    <h1 style="margin-bottom: 10px;">EduBoost AI</h1>
                     <h3 style="margin-bottom: 5px;">
                         Solusi Digital Terpadu untuk Meningkatkan
                         Kualitas dan Pemerataan Pendidikan
