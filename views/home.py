@@ -238,7 +238,7 @@ with st.container():
 
 # Section 3: Pentingnya 1000 HPK (Hari Pertama Kehidupan)
 st.write("---")
-st.header("Solusi Unggulan Eduboost AI")
+st.header("Solusi Unggulan EduBoost AI")
 st.markdown("")
 causes = {
     "Segmetasi kebutuhan sumber daya pendidikan": (
